@@ -7,7 +7,7 @@ sudo apt install -y nodejs npm
 
 # Step 2: Clone the GitHub repository and navigate into it
 echo "Cloning the banana repository..."
-git clone https://github.com/arun993/banana.git && cd banana
+git clone https://github.com/arun993/banana.git && cd banana/Banana
 
 # Step 3: Take user input and store it in data.txt
 echo -e "\033[34mEnter your Query IDs Line to Line (press Ctrl+D to finish):\033[0m"
