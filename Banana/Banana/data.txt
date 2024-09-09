@@ -1,1 +1,0 @@
-query_id=AAEWhAZ3AgAAABaEBnecwkG5&user=%7B%22id%22%3A6291883030%2C%22first_name%22%3A%22Ganesh%22%2C%22last_name%22%3A%22Chalke%22%2C%22username%22%3A%22pn00011%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1725809140&hash=3deee52d5079cb50716a1dc172a97df216c10a1d1d36d1661fb2c0dea03cecdc
